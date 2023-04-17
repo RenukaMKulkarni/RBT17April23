@@ -1,3 +1,4 @@
 Welcome to GIT Session!
 The session days are Monday, Tuesday and Wednesday.
 The session timings are 10:30 AM - 1:30 PM
+Adding random text - to verify differences.....
