@@ -1,1 +1,2 @@
 Welcome to GIT Session!
+The session days are Monday, Tuesday and Wednesday.
