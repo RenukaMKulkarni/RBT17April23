@@ -1,5 +1,5 @@
 Welcome to GIT Session!
-The session days are Monday, Tuesday and Wednesday.
+The session days are Monday(17th April) - Wednesday(19th April).
 The session timings are 10:30 AM - 1:30 PM
 Adding random text - to verify differences.....
-Function Bug123() added to fixed the bug.
+Function Bug123(string abc) added to fixed the bug.
