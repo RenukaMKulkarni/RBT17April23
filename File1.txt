@@ -6,4 +6,4 @@ function - Bug123(string abc) added to fixed the bug.
 for - CR2, line should start with small letters.
 Conflicts for stash demo.
 Working for stash - changes done.
-
+Adding one line to verify the remote conflict.
