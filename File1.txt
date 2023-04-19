@@ -1,5 +1,6 @@
-Welcome - to GIT Session!
-The - session days are Monday(17th April), Tuesday(18th April) and Wednesday (19th April).
-The - session timings are 10:30 AM - 1:30 PM
-Adding - random text - to verify differences.....
-Function - Bug123(string abc) added to fixed the bug.
+welcome - to GIT Session!
+the - session days are Monday(17th April), Tuesday(18th April) and Wednesday (19th April).
+the - session timings are 10:30 AM - 1:30 PM
+adding random text - to verify differences.....
+function - Bug123(string abc) added to fixed the bug.
+for - CR2, line should start with small letters.
