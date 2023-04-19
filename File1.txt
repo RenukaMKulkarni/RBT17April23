@@ -7,3 +7,4 @@ for - CR2, line should start with small letters.
 Conflicts for stash demo.
 Working for stash - changes done.
 Adding one line to verify the remote conflict.
+Updating the file after configuration of remote repositor.
